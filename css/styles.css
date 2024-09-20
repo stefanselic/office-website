@@ -73,6 +73,10 @@
   .details-2 .decoration-star {
     top: 300px;
   }
+  .services .col-md-4 {
+    border-bottom: 1px #ccc solid;
+    margin: 10px 0;
+  }
   .details-2 {
     margin-top: 20px !important;
   }
